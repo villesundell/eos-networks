@@ -146,8 +146,8 @@
       {
         "name": "TELOS Vancouver",
         "protocol": "https",
-        "port": 7777,
-        "url": "api.telosvancouver.io",
+        "port": 443,
+        "url": "api.franceos.fr",
         "description": "HTTPS API"
       }
     ]
