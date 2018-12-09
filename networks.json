@@ -138,17 +138,17 @@
     "name": "TELOS Testnet",
     "description": "TELOS Testnet",
     "owner": "TELOS",
-    "chainId": "6c8aacc339bf1567743eb9c8ab4d933173aa6dca4ae6b6180a849c422f5bb207",
+    "chainId": "e17615decaecd202a365f4c029f206eee98511979de8a5756317e2469f2289e3",
     "type": "testnet",
     "prefix":"TLOS",
     "network": "telos",
     "endpoints": [
       {
-        "name": "EOS Miami",
-        "protocol": "https",
-        "port": 17441,
-        "url": "api.eos.miami",
-        "description": "HTTPS API"
+        "name": "Cryptosuvi",
+        "protocol": "http",
+        "port": 8888,
+        "url": "136.243.4.216",
+        "description": "HTTP API"
       }
     ]
   }
