@@ -14,48 +14,6 @@
         "port": 443,
         "url": "api.franceos.fr",
         "description": "API Node"
-      },
-      {
-        "name": "EOS Nation",
-        "protocol": "https",
-        "port": 443,
-        "url": "api.eosn.io",
-        "description": "API Node"
-      },
-      {
-        "name": "EOS New York",
-        "protocol": "https",
-        "port": 443,
-        "url": "api.eosnewyork.io",
-        "description": "API Node"
-      },
-      {
-        "name": "Greymass",
-        "protocol": "https",
-        "port": 443,
-        "url": "eos.greymass.com",
-        "description": "API Node"
-      },
-      {
-        "name": "Cypherglass",
-        "protocol": "https",
-        "port": 443,
-        "url": "api.cypherglass.com",
-        "description": "API Node"
-      },
-      {
-        "name": "GenerEOS",
-        "protocol": "https",
-        "port": 443,
-        "url": "mainnet.genereos.io",
-        "description": "Public node provided by GenerEOS"
-      },
-      {
-        "name": "Scatter Load Balancer",
-        "protocol": "https",
-        "port": 443,
-        "url": "nodes.get-scatter.com",
-        "description": "Load balancer of various public nodes provided by scatter"
       }
     ]
   },
