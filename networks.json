@@ -144,11 +144,11 @@
     "network": "telos",
     "endpoints": [
       {
-        "name": "Cryptosuvi",
-        "protocol": "http",
-        "port": 8888,
-        "url": "telos.cryptosuvi.io",
-        "description": "HTTP API"
+        "name": "TELOS Vancouver",
+        "protocol": "https",
+        "port": 7777,
+        "url": "api.telosvancouver.io",
+        "description": "HTTPS API"
       }
     ]
   }
