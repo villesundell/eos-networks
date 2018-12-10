@@ -3,7 +3,7 @@
     "name": "EOS Mainnet",
     "description": "The EOS Mainnet",
     "owner": "The EOS community",
-    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
+    "chainId": "e17615decaecd202a365f4c029f206eee98511979de8a5756317e2469f2289e3",
     "type": "mainnet",
     "prefix":"EOS",
     "network": "eos",
@@ -11,8 +11,8 @@
       {
         "name": "franceos",
         "protocol": "https",
-        "port": 443,
-        "url": "api.franceos.fr",
+        "port": 7777,
+        "url": "api.telosvancouver.io",
         "description": "API Node"
       },
       {
@@ -138,7 +138,7 @@
     "name": "TELOS Testnet",
     "description": "TELOS Testnet",
     "owner": "TELOS",
-    "chainId": "e17615decaecd202a365f4c029f206eee98511979de8a5756317e2469f2289e3",
+    "chainId": "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
     "type": "testnet",
     "prefix":"EOS",
     "network": "eos",
